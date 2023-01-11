@@ -1,6 +1,6 @@
-## archive
+## varix
 
-Things that I have written to learn something and might still be useful.
+Arxiv of various things - learning experiments, etc.
 
 ## License
 
